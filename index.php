@@ -1,5 +1,5 @@
 <?php
-$con = 'mohsen'
+$con = 'mohsen';
 ?>
 <!DOCTYPE html>
 <html lang="en">
